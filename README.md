@@ -1,5 +1,5 @@
 <div align = "center">
-<h2 align = "center">Hi, i'm cristian sierra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif width="35"> </h2>
+<h2 align = "center">Hi, i'm cristian sierra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h2>
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXdleHZ2eW9oZnR4MGMzZm1ja3l6MHRvOWJqMXN2Mm14YXF2ZDdzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1kJxyyCq9ZHXX0GM3a/giphy.gif" alt="GIF">
 </div>
 

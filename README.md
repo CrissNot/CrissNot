@@ -10,7 +10,7 @@
 )](https://wa.me/573026068319)
 <br>
 
-## Abaut me
+## About me
 
 - 👨‍💻 Backend Developer<br><br><br>
 <strong>📊 My Github Stats :</strong><br><br>
